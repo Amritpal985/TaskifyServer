@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 5000
 
 app.use(cors(
   {
-    origin:"https://taskifyclient.netlify.app/"
+    origin:"https://taskifyclient.netlify.app"
   }
 ))
 
